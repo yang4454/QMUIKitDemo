@@ -6,6 +6,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ViewController.h"
+#import "nnnnViewController.h"
+#import "tryAlertViewController.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 @property (strong, nonatomic) UIWindow *window;

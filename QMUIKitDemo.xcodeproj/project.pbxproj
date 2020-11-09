@@ -18,6 +18,10 @@
 		1F3A8CB52554EC89009F4F55 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F3A8CB42554EC89009F4F55 /* ViewController.xib */; };
 		1F3A8CC32554F0D9009F4F55 /* QMUIConfigurationTemplate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F3A8CC22554F0D9009F4F55 /* QMUIConfigurationTemplate.m */; };
 		1F3A8CC92554FC88009F4F55 /* QMUIConfigurationTemplateTwo.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F3A8CC72554FC88009F4F55 /* QMUIConfigurationTemplateTwo.m */; };
+		1F3A8CD425553D3A009F4F55 /* nnnnViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F3A8CD225553D3A009F4F55 /* nnnnViewController.m */; };
+		1F3A8CD525553D3A009F4F55 /* nnnnViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F3A8CD325553D3A009F4F55 /* nnnnViewController.xib */; };
+		1F3A8CDD25555918009F4F55 /* tryAlertViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F3A8CDB25555918009F4F55 /* tryAlertViewController.m */; };
+		1F3A8CDE25555918009F4F55 /* tryAlertViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F3A8CDC25555918009F4F55 /* tryAlertViewController.xib */; };
 		6A58CC2C6DEA12752D08854E /* libPods-QMUIKitDemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C7D5068CDD6874EF44DBC798 /* libPods-QMUIKitDemo.a */; };
 /* End PBXBuildFile section */
 
@@ -60,6 +64,12 @@
 		1F3A8CC22554F0D9009F4F55 /* QMUIConfigurationTemplate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = QMUIConfigurationTemplate.m; path = Pods/QMUIKit/QMUIConfigurationTemplate/QMUIConfigurationTemplate.m; sourceTree = SOURCE_ROOT; };
 		1F3A8CC72554FC88009F4F55 /* QMUIConfigurationTemplateTwo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = QMUIConfigurationTemplateTwo.m; path = Pods/QMUIKit/QMUIConfigurationTemplate/QMUIConfigurationTemplateTwo.m; sourceTree = SOURCE_ROOT; };
 		1F3A8CC82554FC88009F4F55 /* QMUIConfigurationTemplateTwo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = QMUIConfigurationTemplateTwo.h; path = Pods/QMUIKit/QMUIConfigurationTemplate/QMUIConfigurationTemplateTwo.h; sourceTree = SOURCE_ROOT; };
+		1F3A8CD125553D3A009F4F55 /* nnnnViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = nnnnViewController.h; sourceTree = "<group>"; };
+		1F3A8CD225553D3A009F4F55 /* nnnnViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = nnnnViewController.m; sourceTree = "<group>"; };
+		1F3A8CD325553D3A009F4F55 /* nnnnViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = nnnnViewController.xib; sourceTree = "<group>"; };
+		1F3A8CDA25555918009F4F55 /* tryAlertViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = tryAlertViewController.h; sourceTree = "<group>"; };
+		1F3A8CDB25555918009F4F55 /* tryAlertViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tryAlertViewController.m; sourceTree = "<group>"; };
+		1F3A8CDC25555918009F4F55 /* tryAlertViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = tryAlertViewController.xib; sourceTree = "<group>"; };
 		382EFC02A816E68AAE7ADB4A /* Pods-QMUIKitDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QMUIKitDemo.release.xcconfig"; path = "Target Support Files/Pods-QMUIKitDemo/Pods-QMUIKitDemo.release.xcconfig"; sourceTree = "<group>"; };
 		C7D5068CDD6874EF44DBC798 /* libPods-QMUIKitDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-QMUIKitDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB70AEEDDB402685411A81E6 /* Pods-QMUIKitDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QMUIKitDemo.debug.xcconfig"; path = "Target Support Files/Pods-QMUIKitDemo/Pods-QMUIKitDemo.debug.xcconfig"; sourceTree = "<group>"; };
@@ -116,12 +126,11 @@
 		1F3A8C722554EBCC009F4F55 /* QMUIKitDemo */ = {
 			isa = PBXGroup;
 			children = (
+				1F3A8CE52555598E009F4F55 /* 弹窗 */,
+				1F3A8CD9255558CE009F4F55 /* 相册 */,
 				1F3A8CC02554F0C8009F4F55 /* QMUIConfigurationTemplate */,
 				1F3A8C732554EBCC009F4F55 /* AppDelegate.h */,
 				1F3A8C742554EBCC009F4F55 /* AppDelegate.m */,
-				1F3A8C792554EBCC009F4F55 /* ViewController.h */,
-				1F3A8C7A2554EBCC009F4F55 /* ViewController.m */,
-				1F3A8CB42554EC89009F4F55 /* ViewController.xib */,
 				1F3A8C7C2554EBCC009F4F55 /* Main.storyboard */,
 				1F3A8C7F2554EBD1009F4F55 /* Assets.xcassets */,
 				1F3A8C812554EBD1009F4F55 /* LaunchScreen.storyboard */,
@@ -158,6 +167,29 @@
 				1F3A8CC22554F0D9009F4F55 /* QMUIConfigurationTemplate.m */,
 			);
 			name = QMUIConfigurationTemplate;
+			sourceTree = "<group>";
+		};
+		1F3A8CD9255558CE009F4F55 /* 相册 */ = {
+			isa = PBXGroup;
+			children = (
+				1F3A8CD125553D3A009F4F55 /* nnnnViewController.h */,
+				1F3A8CD225553D3A009F4F55 /* nnnnViewController.m */,
+				1F3A8CD325553D3A009F4F55 /* nnnnViewController.xib */,
+				1F3A8C792554EBCC009F4F55 /* ViewController.h */,
+				1F3A8C7A2554EBCC009F4F55 /* ViewController.m */,
+				1F3A8CB42554EC89009F4F55 /* ViewController.xib */,
+			);
+			name = "相册";
+			sourceTree = "<group>";
+		};
+		1F3A8CE52555598E009F4F55 /* 弹窗 */ = {
+			isa = PBXGroup;
+			children = (
+				1F3A8CDA25555918009F4F55 /* tryAlertViewController.h */,
+				1F3A8CDB25555918009F4F55 /* tryAlertViewController.m */,
+				1F3A8CDC25555918009F4F55 /* tryAlertViewController.xib */,
+			);
+			name = "弹窗";
 			sourceTree = "<group>";
 		};
 		66809C1F6F91A6299B7E1F3D /* Frameworks */ = {
@@ -284,7 +316,9 @@
 				1F3A8C832554EBD1009F4F55 /* LaunchScreen.storyboard in Resources */,
 				1F3A8C802554EBD1009F4F55 /* Assets.xcassets in Resources */,
 				1F3A8CB52554EC89009F4F55 /* ViewController.xib in Resources */,
+				1F3A8CDE25555918009F4F55 /* tryAlertViewController.xib in Resources */,
 				1F3A8C7E2554EBCC009F4F55 /* Main.storyboard in Resources */,
+				1F3A8CD525553D3A009F4F55 /* nnnnViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -353,6 +387,8 @@
 			files = (
 				1F3A8C7B2554EBCC009F4F55 /* ViewController.m in Sources */,
 				1F3A8CC92554FC88009F4F55 /* QMUIConfigurationTemplateTwo.m in Sources */,
+				1F3A8CD425553D3A009F4F55 /* nnnnViewController.m in Sources */,
+				1F3A8CDD25555918009F4F55 /* tryAlertViewController.m in Sources */,
 				1F3A8C752554EBCC009F4F55 /* AppDelegate.m in Sources */,
 				1F3A8CC32554F0D9009F4F55 /* QMUIConfigurationTemplate.m in Sources */,
 				1F3A8C862554EBD1009F4F55 /* main.m in Sources */,
