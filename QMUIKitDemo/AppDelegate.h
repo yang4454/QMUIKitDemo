@@ -9,6 +9,8 @@
 #import "ViewController.h"
 #import "nnnnViewController.h"
 #import "tryAlertViewController.h"
+#import "buttonViewController.h"
+#import "SearchController.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 @property (strong, nonatomic) UIWindow *window;

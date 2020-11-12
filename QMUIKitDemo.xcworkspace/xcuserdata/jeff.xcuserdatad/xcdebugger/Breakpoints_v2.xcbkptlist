@@ -7,128 +7,144 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "7DA6FA85-B819-4672-8644-998B498A3139"
+            uuid = "861074E3-47C6-4F2A-A6F4-CC686B25DC6B"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "QMUIKitDemo/ViewController.m"
+            filePath = "Pods/QMUIKit/QMUIKit/QMUIComponents/QMUISegmentedControl.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "76"
             endingLineNumber = "76"
-            landmarkName = "-imagePickerViewController:didFinishPickingImageWithImagesAssetArray:"
+            landmarkName = "-setBackgroundWithNormalImage:selectedImage:devideImage00:devideImage01:devideImage10:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "FA83FD3D-B0AF-4964-A8B2-58C1DE168D99"
+            uuid = "DA13EF42-F3EC-4B6C-82D2-AD180496A48A"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "QMUIKitDemo/ViewController.m"
+            filePath = "Pods/QMUIKit/QMUIKit/QMUIComponents/QMUITheme/UIImage+QMUITheme.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "83"
-            endingLineNumber = "83"
-            landmarkName = "-imagePickerPreviewViewControllerForImagePickerViewController:"
+            startingLineNumber = "216"
+            endingLineNumber = "216"
+            landmarkName = "-resizableImageWithCapInsets:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "7F1DB178-330F-4615-8B2E-A533B37C7241"
+            uuid = "F6A4EA34-8DD2-4BAF-9D7C-3C93DD1967C7"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "QMUIKitDemo/ViewController.m"
+            filePath = "Pods/QMUIKit/QMUIKit/QMUIComponents/QMUITheme/UIImage+QMUITheme.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "61"
-            endingLineNumber = "61"
-            landmarkName = "-imagePickerViewControllerForAlbumViewController:"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "-resizableImageWithCapInsets:resizingMode:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "F469E256-C761-4F0A-9678-0FAC2C6CEC1B"
+            uuid = "0CC7BC14-14F9-4DEA-8A37-1846CF85B39F"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "QMUIKitDemo/ViewController.m"
+            filePath = "Pods/QMUIKit/QMUIKit/UIKitExtensions/UISearchBar+QMUI.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "92"
-            endingLineNumber = "92"
-            landmarkName = "-imagePickerPreviewViewController:didCheckImageAtIndex:"
+            startingLineNumber = "329"
+            endingLineNumber = "329"
+            landmarkName = "+qmui_generateTextFieldBackgroundImageWithColor:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "EDBE0779-A1AF-441F-98B7-9727BEA6B2C7"
+            uuid = "C57A6F3F-D225-4D95-B028-17D092BA6FC2"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "QMUIKitDemo/ViewController.m"
+            filePath = "Pods/QMUIKit/QMUIKit/UIKitExtensions/UISearchBar+QMUI.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "96"
-            endingLineNumber = "96"
-            landmarkName = "-imagePickerPreviewViewController:didUncheckImageAtIndex:"
+            startingLineNumber = "333"
+            endingLineNumber = "333"
+            landmarkName = "+qmui_generateBackgroundImageWithColor:borderColor:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "6C2E8732-058D-40AE-B55B-D862B9ECE3E7"
+            uuid = "D8B86452-6268-47E6-B4FE-FF40A18F3037"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "QMUIKitDemo/ViewController.m"
+            filePath = "Pods/QMUIKit/QMUIKit/UIKitExtensions/UIImage+QMUI.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "101"
-            endingLineNumber = "101"
-            landmarkName = "-updateImageCountLabelForPreviewView:"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "+load"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "CE39F075-DC04-4ED0-B83D-40D39244EF8C"
+            uuid = "3C4CD686-4C9E-4B5B-BECB-FE6E00F10175"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "QMUIKitDemo/ViewController.m"
+            filePath = "Pods/QMUIKit/QMUIKit/QMUIComponents/QMUISearchController.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "127"
-            endingLineNumber = "127"
-            landmarkName = "-sendImageWithImagesAssetArrayIfDownloadStatusSucceed:"
+            startingLineNumber = "328"
+            endingLineNumber = "328"
+            landmarkName = "-initSearchController"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "50DAE7E9-AF2E-460E-BB1F-D340516EB2B4"
+            uuid = "C93258C4-B8DD-4939-BD60-16D4D901E38C"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "QMUIKitDemo/ViewController.m"
+            filePath = "Pods/QMUIKit/QMUIKit/QMUIComponents/QMUISearchController.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "119"
-            endingLineNumber = "119"
-            landmarkName = "-showTipLabelWithText:"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "-initWithContentsViewController:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A252C7F6-5FCC-44BF-A649-FD81503D75D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/QMUIKit/QMUIKit/UIKitExtensions/UISearchBar+QMUI.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "269"
+            endingLineNumber = "269"
+            landmarkName = "-qmui_styledAsQMUISearchBar"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
