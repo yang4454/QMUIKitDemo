@@ -11,6 +11,8 @@
 #import "tryAlertViewController.h"
 #import "buttonViewController.h"
 #import "SearchController.h"
+#import "tabBarViewController.h"
+#import "navigationControllerViewController.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 @property (strong, nonatomic) UIWindow *window;
